@@ -1,6 +1,8 @@
 # ChartEx
 Excel Addin for export chart as image file such as png, jpeg, and pdf.
 
+![](https://cloud.githubusercontent.com/assets/927288/25740117/1fcaeff0-31c0-11e7-9d56-809b04af7abf.png)
+
 ## Test environment
 
   - Windows 10
